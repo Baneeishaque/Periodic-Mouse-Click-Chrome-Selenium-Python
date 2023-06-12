@@ -5,7 +5,7 @@ from selenium import webdriver
 
 options = webdriver.ChromeOptions()
 options.add_experimental_option('excludeSwitches', ['enable-logging'])
-driver = webdriver.Chrome("chromedriver", options=options)
+driver = webdriver.Chrome(options=options)
 
 command_line_arguments_parser = argparse.ArgumentParser(prog='Periodic-Mouse-Click-Chrome',
                                                                 description='Periodic Mouse Click on A Chrome Window',
