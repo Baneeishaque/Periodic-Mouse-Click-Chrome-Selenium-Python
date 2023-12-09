@@ -1,5 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="main.py --desiredWebPageUrl &quot;google.com&quot;" type="PythonConfigurationType" factoryName="Python">
+  <configuration default="false" name="main.py --desiredWebPageUrl &quot;https://www.google.com&quot;" type="PythonConfigurationType" factoryName="Python">
     <module name="Periodic-Mouse-Click-Chrome-Selenium-Python" />
     <option name="ENV_FILES" value="" />
     <option name="INTERPRETER_OPTIONS" value="" />
@@ -15,7 +15,7 @@
     <option name="ADD_SOURCE_ROOTS" value="true" />
     <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
     <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
-    <option name="PARAMETERS" value="--desiredWebPageUrl &quot;google.com&quot;" />
+    <option name="PARAMETERS" value="--desiredWebPageUrl &quot;https://www.google.com&quot;" />
     <option name="SHOW_COMMAND_LINE" value="false" />
     <option name="EMULATE_TERMINAL" value="false" />
     <option name="MODULE_MODE" value="false" />
