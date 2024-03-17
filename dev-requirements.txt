@@ -1,2 +1,2 @@
 wheel==0.42.0
-autopep8==2.0.4
+autopep8==2.1.0
